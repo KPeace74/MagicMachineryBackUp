@@ -1,0 +1,9 @@
+package com.kpeace74.magicmachinery.api;
+
+public class Owner {
+
+	public Owner() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

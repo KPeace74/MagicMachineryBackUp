@@ -1,0 +1,28 @@
+item.magicmachinery:mapleLeaf.name=Maple Leaf of Awesomeness, eh?
+item.magicmachinery:staffOfTheExplorer.name=Staff of the Explorer, eh?
+item.magicmachinery:goldRod.name=Gold Rod, eh?
+item.magicmachinery:imbuedDiamond.name=Imbued Diamond, eh?
+item.magicmachinery:empoweredStaffOfTheExplorer.name=Empowered Staff of the Explorer, eh?
+item.magicmachinery:imbuedDiamondPickaxe.name=Imbued Diamond Pickaxe, eh?
+item.magicmachinery:staffOfTeleportation.name=Staff of Teleportation, eh?
+item.magicmachinery:empoweredPearl.name=Empowered Pearl, eh?
+item.magicmachinery:wingsOfImak.name=Wings of Imak, eh?
+item.magicmachinery:empoweredRedstone.name=Empowered Redstone, eh?
+item.magicmachinery:energeticStaff.name=Energetic Staff, eh?
+item.magicmachinery:guideBook.name=A Novice Mage's Guide Book, eh?
+
+
+tile.magicmachinery:flag.name=Canadian Flag of Awesomeness, eh?
+tile.magicmachinery:machine.name=Machine, eh?
+tile.magicmachinery:imbuedDiamondBlock.name=Imbued Diamond Block, eh?
+tile.magicmachinery:theStoneOfEnergization.name=The Stone Of Energization, eh?
+tile.magicmachinery:floorPlacer.name=Floor Placer, eh?
+tile.magicmachinery:energizedStone.name=Energized Stone, eh?
+
+
+itemGroup.magicmachinery=Magic Machinery, eh?
+
+
+keys.magicmachinery.category= Magic Machinery, eh?
+keys.magicmachinery.charge= Charge, eh?
+keys.magicmachinery.release= Release, eh?

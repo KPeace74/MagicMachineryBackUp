@@ -1,0 +1,22 @@
+package com.kpeace74.magicmachinery.item;
+
+import net.minecraft.client.model.ModelBiped;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.item.ItemStack;
+
+public class ItemWingsOfImak extends ItemMagicMachinery {
+	
+	public ItemWingsOfImak() {
+		super();
+		this.setUnlocalizedName("wingsOfImak");
+		//this.getArmorModel(EntityPlayer, ItemStack, 1);
+		
+	}
+
+
+	public ModelBiped getArmorModel(EntityPlayer entityLiving, ItemStack itemStack, int armorSlot) {
+		
+		return null;
+	}
+	
+}

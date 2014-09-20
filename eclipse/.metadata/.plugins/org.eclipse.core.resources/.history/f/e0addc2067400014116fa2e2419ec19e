@@ -1,0 +1,12 @@
+package com.kpeace74.magicmachinery.api;
+
+import com.mojang.authlib.GameProfile;
+
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.world.World;
+
+public class Owner {
+
+	
+
+}

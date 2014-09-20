@@ -1,0 +1,12 @@
+package com.kpeace74.magicmachinery.item;
+
+public class ItemIronDagger extends ItemMagicMachinery {
+
+	public ItemIronDagger() {
+		super();
+		setUnlocalizedName("ironDagger");
+		setMaxStackSize(1);
+		setMaxDamage(125);
+	}
+	
+}

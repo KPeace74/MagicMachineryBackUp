@@ -1,0 +1,26 @@
+item.magicmachinery:mapleLeaf.name=uwotm8?
+item.magicmachinery:staffOfTheExplorer.name=uwotm8?
+item.magicmachinery:goldRod.name=uwotm8?
+item.magicmachinery:imbuedDiamond.name=uwotm8?
+item.magicmachinery:empoweredStaffOfTheExplorer.name=uwotm8?
+item.magicmachinery:imbuedDiamondPickaxe.name=uwotm8?
+item.magicmachinery:staffOfTeleportation.name=uwotm8?
+item.magicmachinery:empoweredPearl.name=uwotm8?
+item.magicmachinery:wingsOfImak.name=uwotm8?
+item.magicmachinery:empoweredRedstone.name=uwotm8?
+item.magicmachinery:energeticStaff.name=uwotm8?
+item.magicmachinery:guideBook.name=uwotm8?
+
+tile.magicmachinery:flag.name=uwotm8?
+tile.magicmachinery:machine.name=uwotm8?
+tile.magicmachinery:imbuedDiamondBlock.name=uwotm8?
+tile.magicmachinery:theStoneOfEnergization.name=uwotm8?
+tile.magicmachinery:floorPlacer.name=uwotm8?
+tile.magicmachinery:energizedStone.name=uwotm8?
+
+
+itemGroup.magicmachinery=uwotm8?
+
+keys.magicmachinery.category= uwotm8?
+keys.magicmachinery.charge= uwotm8?
+keys.magicmachinery.release= uwotm8?

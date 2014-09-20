@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="conditionHistory">
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Minecraft/C:\/Users\/Keelan\/.gradle\/caches\/modules-2\/files-2.1\/org.ow2.asm\/asm-debug-all\/4.1\/dd6ba5c392d4102458494e29f54f70ac534ec2a2\/asm-debug-all-4.1.jar&amp;lt;org.objectweb.asm.util(ASMifier.class[ASMifier&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Minecraft/C:\/Users\/Keelan\/.gradle\/caches\/modules-2\/files-2.1\/net.minecraft\/launchwrapper\/1.9\/116f2aad5b0c68353ebed66cd463517db6522f7e\/launchwrapper-1.9.jar&amp;lt;net.minecraft.launchwrapper(Launch.class[Launch&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Minecraft/C:\/Users\/Keelan\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.7.10-10.13.0.1180\/forgeSrc-1.7.10-10.13.0.1180.jar&amp;lt;net.minecraft.client.main(Main.class[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="224" key="DIALOG_X_ORIGIN"/>
+			<item value="187" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item value="200" key="SashWeightTree"/>
+		<item value="200" key="SashWeightDetails"/>
+		<item value="614" key="WIDTH"/>
+		<item value="194" key="HEIGHT"/>
+	</section>
+</section>

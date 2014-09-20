@@ -1,0 +1,24 @@
+package com.kpeace74.blankets.creativetab;
+
+import com.kpeace74.blankets.init.ModItems;
+import com.kpeace74.blankets.referance.Referance;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class CreativeTabBlankets {
+
+	public static final CreativeTabs BLANKETS_TAB = new CreativeTabs(Referance.MOD_ID)  {
+		
+		@Override
+		public Item getTabIconItem() {
+			return ModItems.mapleLeaf;
+		}
+		
+		@Override
+		
+		public String getTranslatedTabLabel() {
+			return "Blankets";
+		}
+	}; 
+}

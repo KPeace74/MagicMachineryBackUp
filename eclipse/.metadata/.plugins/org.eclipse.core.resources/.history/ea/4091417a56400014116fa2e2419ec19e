@@ -1,0 +1,11 @@
+package com.kpeace74.magicmachinery.api;
+
+import net.minecraft.entity.player.EntityPlayer;
+
+public class Owner extends EntityPlayer {
+
+	public Owner() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

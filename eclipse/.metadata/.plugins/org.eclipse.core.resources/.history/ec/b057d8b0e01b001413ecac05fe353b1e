@@ -1,0 +1,31 @@
+package com.kpeace74.magicmachinery.item;
+
+import net.minecraft.client.model.ModelBiped;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.item.ItemArmor;
+import net.minecraft.item.ItemStack;
+import net.minecraft.world.World;
+
+public class ItemWingsOfImak extends ItemMagicMachinery {
+	public boolean canFly = false;
+	public ItemWingsOfImak() {
+		super();
+		this.setUnlocalizedName("wingsOfImak");
+		//this.getArmorModel(EntityPlayer, ItemStack, 1);
+		this.setPotionEffect("Flight");
+		
+	}
+
+
+	public ModelBiped getArmorModel(EntityPlayer entityLiving, ItemStack itemStack, int armorSlot) {
+
+		return null;
+	}
+	
+	@Override
+	public ItemStack onItemRightClick(ItemStack itemstack, World world, EntityPlayer player) {
+		
+		return itemstack;
+	}
+	
+}

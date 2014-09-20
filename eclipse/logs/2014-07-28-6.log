@@ -1,0 +1,62 @@
+[22:05:36] [main/INFO]: Setting user: ForgeDevName
+[22:05:37] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:05:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Blankets
+[22:05:42] [Sound Library Loader/INFO]: Sound engine started
+[22:05:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:05:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:05:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Blankets
+[22:05:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:05:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:05:44] [Sound Library Loader/INFO]: Sound engine started
+[22:05:48] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:05:48] [Server thread/INFO]: Generating keypair
+[22:05:48] [Server thread/INFO]: Preparing start region for level 0
+[22:05:48] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:05:49] [Server thread/INFO]: ForgeDevName[local:E:50de4a3e] logged in with entity id 123 at (-99.39773332257383, 5.0, 1281.8550258157782)
+[22:05:49] [Server thread/INFO]: ForgeDevName joined the game
+[22:05:55] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[22:05:55] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[22:05:55] [Server thread/INFO]: [ForgeDevName: Set own game mode to Survival Mode]
+[22:05:55] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:06:10] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[22:06:11] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[22:06:11] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[22:06:11] [Server thread/INFO]: [ForgeDevName: Set own game mode to Creative Mode]
+[22:06:11] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:06:31] [Server thread/INFO]: Saving and pausing game...
+[22:06:31] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/Overworld
+[22:06:31] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/Nether
+[22:06:31] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/The End
+[22:06:31] [Server thread/INFO]: Stopping server
+[22:06:31] [Server thread/INFO]: Saving players
+[22:06:31] [Server thread/INFO]: Saving worlds
+[22:06:31] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/Overworld
+[22:06:31] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/Nether
+[22:06:31] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/The End
+[22:19:39] [main/INFO]: Setting user: ForgeDevName
+[22:19:40] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:19:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Blankets
+[22:19:45] [Sound Library Loader/INFO]: Sound engine started
+[22:19:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:19:47] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:19:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Blankets
+[22:19:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:19:47] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:19:48] [Sound Library Loader/INFO]: Sound engine started
+[22:19:52] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:19:52] [Server thread/INFO]: Generating keypair
+[22:19:53] [Server thread/INFO]: Preparing start region for level 0
+[22:19:53] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:19:54] [Server thread/INFO]: ForgeDevName[local:E:10046e2c] logged in with entity id 123 at (-92.62518363711499, 5.373351699638597, 1278.5105717207512)
+[22:19:54] [Server thread/INFO]: ForgeDevName joined the game
+[22:20:30] [Server thread/INFO]: Saving and pausing game...
+[22:20:30] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/Overworld
+[22:20:30] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/Nether
+[22:20:30] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/The End
+[22:20:30] [Server thread/INFO]: Stopping server
+[22:20:30] [Server thread/INFO]: Saving players
+[22:20:30] [Server thread/INFO]: Saving worlds
+[22:20:30] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/Overworld
+[22:20:30] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/Nether
+[22:20:30] [Server thread/INFO]: Saving chunks for level 'New Mod Test World'/The End
+[22:20:32] [Client thread/INFO]: Stopping!

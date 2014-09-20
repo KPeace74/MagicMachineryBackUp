@@ -1,0 +1,10 @@
+package com.kpeace74.magicmachinery.item;
+
+public class ItemCorruptDiamond {
+
+	public ItemCorruptDiamond() {
+		super();
+		this.setUnlocalizedName("corruptDiamond");
+	}
+
+}

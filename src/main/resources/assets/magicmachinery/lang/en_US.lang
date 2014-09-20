@@ -1,0 +1,43 @@
+item.magicmachinery:mapleLeaf.name=Maple Leaf of Awesomeness
+item.magicmachinery:staffOfTheExplorer.name=Staff of the Explorer
+item.magicmachinery:goldRod.name=Gold Rod
+item.magicmachinery:imbuedDiamond.name=Imbued Diamond
+item.magicmachinery:empoweredStaffOfTheExplorer.name=Empowered Staff of the Explorer
+item.magicmachinery:imbuedDiamondPickaxe.name=Imbued Diamond Pickaxe
+item.magicmachinery:staffOfTeleportation.name=Staff of Teleportation
+item.magicmachinery:empoweredPearl.name=Empowered Pearl
+item.magicmachinery:wingsOfImak.name=Wings of Imak
+item.magicmachinery:empoweredRedstone.name=Empowered Redstone
+item.magicmachinery:energeticStaff.name=Energetic Staff
+item.magicmachinery:guideBook.name=A Novice Mage's Guide Book
+item.magicmachinery:diamondDagger.name=Diamond Dagger
+item.magicmachinery:ironDagger.name=Iron Dagger
+item.magicmachinery:stoneDagger.name=Stone Dagger
+item.magicmachinery:woodenDagger.name=Wooden Dagger
+item.magicmachinery:heatedMundanePotion.name=Heated Mundane Potion
+item.magicmachinery:bucketOfIceWater.name=Bucket Of Ice Water
+item.magicmachinery:cleaverOfBeheading.name=Cleaver of Beheading
+item.magicmachinery:banHammer.name=The Ban Hammer
+item.magicmachinery:corruptDiamond.name=Corrupt Diamond
+item.magicmachinery:diamondFinder.name=Diamond Finder
+
+tile.magicmachinery:flag.name=Canadian Flag of Awesomeness
+tile.magicmachinery:machine.name=Machine
+tile.magicmachinery:imbuedDiamondBlock.name=Imbued Diamond Block
+tile.magicmachinery:theStoneOfEnergization.name=The Stone Of Energization
+tile.magicmachinery:floorPlacer.name=Floor Placer
+tile.magicmachinery:energizedStone.name=Energized Stone
+tile.magicmachinery:bomb.name=Bomb
+tile.magicmachinery:magicalReceptor.name=Magical Receptor
+tile.magicmachinery:hardenedWood.name=Hardened Wood
+tile.magicmachinery:combiner.name=Combiner
+tile.magicmachinery:fermenter.name=Fermenter
+tile.magicmachinery:corruptDiamondBlock.name=Corrupt Diamond Block
+
+itemGroup.magicmachinery=Magic Machinery
+
+
+
+keys.magicmachinery.category= Magic Machinery
+keys.magicmachinery.charge= Charge
+keys.magicmachinery.release= Release
